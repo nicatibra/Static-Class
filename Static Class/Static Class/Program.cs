@@ -41,6 +41,10 @@
                         Console.WriteLine("Capitalized word: " + word2.Capitalize());
                         break;
 
+                    case 0:
+                        Console.WriteLine("Exiting the program...");
+                        break;
+
                     default:
                         break;
                 }

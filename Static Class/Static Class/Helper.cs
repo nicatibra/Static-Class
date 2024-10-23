@@ -4,7 +4,7 @@
     {
         public static bool IsOdd(this int number)
         {
-            if (number == 0)
+            if (number <= 0)
             {
                 return false;
             }
@@ -17,7 +17,7 @@
 
         public static bool IsEven(this int number)
         {
-            if (number == 0)
+            if (number <= 0)
             {
                 return false;
             }

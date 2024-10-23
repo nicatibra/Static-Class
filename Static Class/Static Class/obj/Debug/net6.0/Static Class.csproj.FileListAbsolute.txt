@@ -1,0 +1,15 @@
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task13 - Static Class\Static Class\Static Class\bin\Debug\net6.0\Static Class.exe
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task13 - Static Class\Static Class\Static Class\bin\Debug\net6.0\Static Class.deps.json
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task13 - Static Class\Static Class\Static Class\bin\Debug\net6.0\Static Class.runtimeconfig.json
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task13 - Static Class\Static Class\Static Class\bin\Debug\net6.0\Static Class.dll
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task13 - Static Class\Static Class\Static Class\bin\Debug\net6.0\Static Class.pdb
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task13 - Static Class\Static Class\Static Class\obj\Debug\net6.0\Static Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task13 - Static Class\Static Class\Static Class\obj\Debug\net6.0\Static Class.AssemblyInfoInputs.cache
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task13 - Static Class\Static Class\Static Class\obj\Debug\net6.0\Static Class.AssemblyInfo.cs
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task13 - Static Class\Static Class\Static Class\obj\Debug\net6.0\Static Class.csproj.CoreCompileInputs.cache
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task13 - Static Class\Static Class\Static Class\obj\Debug\net6.0\Static Class.sourcelink.json
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task13 - Static Class\Static Class\Static Class\obj\Debug\net6.0\Static Class.dll
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task13 - Static Class\Static Class\Static Class\obj\Debug\net6.0\refint\Static Class.dll
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task13 - Static Class\Static Class\Static Class\obj\Debug\net6.0\Static Class.pdb
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task13 - Static Class\Static Class\Static Class\obj\Debug\net6.0\Static Class.genruntimeconfig.cache
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task13 - Static Class\Static Class\Static Class\obj\Debug\net6.0\ref\Static Class.dll
